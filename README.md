@@ -2,6 +2,7 @@
 
 ## Avtorji
 
+*Lojze Slak
 * Anja Petković
 * Zala Gorjanc
 
