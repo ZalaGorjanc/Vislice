@@ -1,4 +1,4 @@
-# Vislice194
+# Vislice
 
 ## Avtorji
 
